@@ -21,7 +21,7 @@ Dataset:
 
 # 1) Lehman
 folder_path = './data'
-column_widths = [8, 31, 10, 10, 9, 2, 8, 8, 8, 8, 10, 7, 2, 1, 7, 1, 7, 7, 3, 2, 1, 7, 2]
+column_widths = [8, 31, 10, 9, 9, 2, 8, 8, 8, 8, 10, 7, 2, 1, 7, 1, 7, 7, 3, 2, 1, 7, 2]
 files = os.listdir(folder_path)
 dfs = []
 
